@@ -1,0 +1,7 @@
+<root>
+    <interfataGrafica id="0601" description="masca pentru administrarea BOM" programId="AB0601"/>
+
+    <interfataGrafica id="0604" description="istoric modificari BOM" programId="AB0604"/>
+
+    <interfataGrafica id="0605" description="drepturi administrare BOM" programId="AB0605"/>
+</root>

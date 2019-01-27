@@ -1,0 +1,15 @@
+<root>
+    <procedure id="B.AB3030" account="$PR">
+        <programReference programId="AB2000"/>
+        <programReference programId="AB2001"/>
+    </procedure>
+
+    <procedure id="B.AB3010" account="$PR">
+        <programReference programId="AB2002"/>
+        <procedureReference procedureId="B.AB3030"/>
+    </procedure>
+
+    <procedure id="B.FL6010" account="$PRUS">
+        <programReference programId="AB2001"/>
+    </procedure>
+</root>

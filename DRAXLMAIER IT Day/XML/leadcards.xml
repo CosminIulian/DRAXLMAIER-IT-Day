@@ -1,0 +1,11 @@
+<root>
+    <leadcard id="FL3" description="startare procedura import date in APP1" procedureId="B.AB3030"/>
+
+    <leadcard id="FL1" description="startare procedura import date in APP2" procedureId="B.AB3010"/>
+
+    <leadcard id="FL5" description="startare procedura import date in APP3" procedureId="B.AB3010"/>
+
+    <leadcard id="00001" description="startare procedura creare raport 1" procedureId="B.AB5010"/>
+
+    <leadcard id="00002" description="startare procedura creare raport 2" procedureId="B.AB5020"/>
+</root>

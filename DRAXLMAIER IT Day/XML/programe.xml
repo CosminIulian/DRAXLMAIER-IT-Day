@@ -1,0 +1,42 @@
+<root>
+
+    <!-- batch programs -->
+    <program id="AB2000" type="BATCH" path="Global\src\AB200000.CBL"/> <!-- 0 -->
+
+    <program id="AB2001" type="BATCH" path="Global\src\AB200100.CBL"> <!-- 1 -->
+        <programReference programId="AB9001"/>
+        <programReference programId="AB9002"/>
+    </program>
+
+    <program id="AB2002" type="BATCH" path="Global\src\AB200200.CBL"> <!-- 2 -->
+        <programReference programId="AB9002"/>
+    </program>
+
+    <!-- subprograms -->
+    <program id="AB9001" type="BATCH" path="Global\src\AB900100.CBL"/> <!-- 3 -->
+
+    <program id="AB9002" type="BATCH" path="Global\src\AB900200.CBL"/> <!-- 4 -->
+
+    <program id="AB9003" type="BATCH" path="Global\src\AB900300.CBL"> <!-- 5 -->
+        <programReference programId="AB9004"/>
+    </program>
+
+    <program id="AB9004" type="BATCH" path="Global\src\AB900400.CBL"/> <!-- 6 -->
+
+    <!-- UTM GUI programms -->
+    <program id="AB0601" type="UTM" path="UTM\src\AB060100.IFG"/> <!-- 7 -->
+
+    <program id="AB0602" type="UTM" path="UTM\src\AB060200.IFG"/> <!-- 8 -->
+
+    <program id="AB0603" type="UTM" path="UTM\src\AB060300.IFG"/> <!-- 9 -->
+
+    <program id="AB0604" type="UTM" path="UTM\src\AB060400.IFG"> <!-- 10 -->
+        <programReference programId="AB9002"/>
+    </program>
+
+    <program id="AB0605" type="UTM" path="UTM\src\AB060500.FPL"> <!-- 11 -->
+        <programReference programId="AB9002"/>
+        <programReference programId="AB9003"/>
+    </program>
+
+</root>
