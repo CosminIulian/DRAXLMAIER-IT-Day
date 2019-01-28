@@ -3,6 +3,6 @@ Concurs de programare realizat de firma DRAXLMAIER
 ## Cerinte
 [VIEW LINK](https://www.dropbox.com/s/efe116kjihivems/2019concursDRXproiect.pdf?dl=0)
 ## Prezentare
-[VIEW LINK](https://www.dropbox.com/s/me27ti96grxadwp/DRAXLMAIER%20IT%20Day%20Presentation.pptx?dl=0)
+[VIEW LINK](https://1drv.ms/p/s!ArCwk_6HFsi9iSTbkIO4zUegfz9e)
 ## Screenshot
 <img src="https://i.imgur.com/XO7vN3u.png"/>
