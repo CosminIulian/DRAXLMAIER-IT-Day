@@ -1,5 +1,5 @@
 # DRAXLMAIER-IT-Day
-Concurs de programare realizat de firma DRAXLMAIER
+Aplicatie realizata pentru DRAXLMAIER IT DAY
 ## Cerinte
 [LINK VIEW](https://1drv.ms/b/s!ArCwk_6HFsi9iSVv6cu9nZxcEbxp)
 ## Prezentare
